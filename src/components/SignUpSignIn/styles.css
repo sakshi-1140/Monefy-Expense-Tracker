@@ -1,0 +1,31 @@
+.signup-signin-container {
+    /* v one is later  & g is before*/
+    /* width: 30vw;     */
+    width: 70%;   
+    /* min-width: 400px;  */  /* in G */
+    max-width: 450px; 
+    height: auto;
+    box-shadow: var(--shadow);
+    border-radius: 1rem;
+    /* padding: 2rem; */
+    padding: 1rem 1.5rem;
+  }
+
+  .title{
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-align:center;
+  }
+  .blue-text {
+    color: var(--theme);
+  }
+ .p-login{
+    text-align: center;
+    font-weight: 300;  /*in V but 400 is better*/
+    font-weight: 400; 
+    font-size: 0.8rem;
+     margin: 0;    
+  }
+  .cursor{
+    cursor: pointer;  /*not in V or g*/
+  }
