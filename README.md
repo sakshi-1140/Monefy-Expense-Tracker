@@ -1,8 +1,8 @@
-# Personal Finance Tracker
+# Monefy Expense Tracker
 
 ## Overview
 
-The Personal Finance Tracker is a web application designed to help users manage their finances. Built with ReactJS and Firebase, this application allows users to track their income and expenses, visualize their spending through charts, and manage their financial data efficiently. Users can log in using Google authentication, and the app is fully responsive to provide a seamless experience across different devices.
+The Monefy Expense Tracker is a web application designed to help users manage their finances. Built with ReactJS and Firebase, this application allows users to track their income and expenses, visualize their spending through charts, and manage their financial data efficiently. Users can log in using Google authentication, and the app is fully responsive to provide a seamless experience across different devices.
 
 ## Live Preview:
 - https://monefy-expense-tracker.vercel.app/
