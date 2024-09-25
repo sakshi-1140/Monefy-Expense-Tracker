@@ -32,21 +32,6 @@ The Monefy Expense Tracker is a web application designed to help users manage th
 - **Ant Design**
 
 ## Screenshots
-![Screenshot 2024-08-27 at 12 18 06 AM](https://github.com/user-attachments/assets/79d9f01a-ed58-400f-b075-1672c085f793)
-
-![Screenshot 2024-08-27 at 12 18 17 AM](https://github.com/user-attachments/assets/655c2cc2-f31b-43b0-8d6b-89a39c08609d)
-
-![Screenshot 2024-08-27 at 12 23 47 AM](https://github.com/user-attachments/assets/b3f002f3-a6dd-4af1-b170-766feb09e9bf)
-
-![Screenshot 2024-08-27 at 12 23 39 AM](https://github.com/user-attachments/assets/07b6435b-516e-45b9-9e38-9cd0e838cfc7)
-
-![Screenshot 2024-08-27 at 12 24 41 AM](https://github.com/user-attachments/assets/bee51e07-e1e8-4cdd-8f58-18b8683c2835)
-
-![Screenshot 2024-08-27 at 12 25 21 AM](https://github.com/user-attachments/assets/7a31ab99-a364-40b9-8563-d776304131df)
-
-![Screenshot 2024-08-27 at 12 25 34 AM](https://github.com/user-attachments/assets/b33fd728-0eda-4438-b23a-9759a0cd9f7d)
-
-![Screenshot 2024-08-27 at 12 25 42 AM](https://github.com/user-attachments/assets/bd88a1ee-46d3-4f33-9831-ce2c844ca1f0)
 
 
 ## Installation
