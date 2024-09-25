@@ -1,67 +1,79 @@
-# Getting Started with Create React App
+Personal Finance Tracker
+Overview
+The Personal Finance Tracker is a web application designed to help users manage their finances. Built with ReactJS and Firebase, this application allows users to track their income and expenses, visualize their spending through charts, and manage their financial data efficiently. Users can log in using Google authentication, and the app is fully responsive to provide a seamless experience across different devices.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Preview:
+https://monefy-expense-tracker.vercel.app/
+Features
+Google Authentication: Secure login using Google email.
+Income & Expense Management: Add and track income and expenses.
+Data Visualization:
+Pie chart showing total spending based on tags.
+Bar chart displaying the total balance for each month.
+Transaction Records: Keeps a record of all transactions.
+CSV Import/Export:
+Export transactions to CSV file.
+Import transactions from a CSV file.
+Technologies Used
+HTML
+CSS
+JavaScript
+ReactJS: Front-end library for building the user interface.
+Firebase: For user authentication and data storage.
+Chart.js: For visualizing data with charts.
+Toaster: For user notifications.
+PapaParse: For CSV parsing and generation.
+ANT Design
+Screenshots
+Screenshot 2024-08-27 at 12 18 06 AM
 
-## Available Scripts
+Screenshot 2024-08-27 at 12 18 17 AM
 
-In the project directory, you can run:
+Screenshot 2024-08-27 at 12 23 47 AM
 
-### `npm start`
+Screenshot 2024-08-27 at 12 23 39 AM
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Screenshot 2024-08-27 at 12 24 41 AM
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Screenshot 2024-08-27 at 12 25 21 AM
 
-### `npm test`
+Screenshot 2024-08-27 at 12 25 34 AM
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Screenshot 2024-08-27 at 12 25 42 AM
 
-### `npm run build`
+Installation
+Clone the Repository
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+git clone https://github.com/your-username/Monefy-Expense-Tracker.git
+Install dependencies:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm install
+or
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+yarn install
+Start the development server:
 
-### `npm run eject`
+npm start
+or
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+yarn start
+Open your browser and visit:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+http://localhost:3000
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page to see what’s going on.
 
-## Learn More
+Fork the project
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a pull request
+💬 Contact
+For any inquiries, reach out via sakshichoudhary1140@gmail.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
