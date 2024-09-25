@@ -25,7 +25,6 @@ The Monefy Expense Tracker is a web application designed to help users manage th
 - **CSS**
 - **JavaScript**
 - **ReactJS**: Front-end library for building the user interface.
-- **Vite**: Build tool for faster development and optimized builds.
 - **Firebase**: For user authentication and data storage.
 - **Chart.js**: For visualizing data with charts.
 - **Toaster**: For user notifications.
