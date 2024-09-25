@@ -84,6 +84,61 @@ The Monefy Expense Tracker is a web application designed to help users manage th
    ```
    http://localhost:3000
    ```
+## 📂 Project Structure
+
+```plaintext
+Monefy-Expense-Tracker/
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── assets/
+│   │   ├── search.svg
+│   │   ├── transactions.svg
+│   │   └── user.svg
+│   ├── components/
+│   │   ├── Button/
+│   │   │   ├── Button.jsx
+│   │   │   └── styles.css
+│   │   ├── Cards/
+│   │   │   ├── Cards.jsx
+│   │   │   └── styles.css
+│   │   ├── Charts/
+│   │   │   └── Chart.jsx
+│   │   ├── Header/
+│   │   │   ├── Header.jsx
+│   │   │   └── styles.css
+│   │   ├── Input/
+│   │   │   ├── Input.jsx
+│   │   │   └── styles.css
+│   │   ├── Modal/
+│   │   │   ├── AddExpenseModal.jsx
+│   │   │   └── AddIncomeModak.jsx
+│   │   ├── NoTransactions/
+│   │   │   └── NoTransactions.jsx
+│   │   ├── SignUpSignIn/
+│   │   │   ├── SignUpSignIn.jsx
+│   │   │   └── styles.css
+│   │   └── TransactionsTable/
+│   │       └── TransactionTable.jsx
+│   ├── pages/
+│   │   ├── Dashboard.jsx
+│   │   └── Signup.jsx
+│   ├── App.css
+│   ├── App.js
+│   ├── firebase.js
+│   ├── index.css
+│   └── index.js
+├── .gitignore
+├── README.md
+├── package-lock.json
+└── package.json
+
+```
 
 ## 🤝 Contributing
 
